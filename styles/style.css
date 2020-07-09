@@ -106,3 +106,44 @@
   z-index: 2;
 }
 
+.description {
+  display: flex;
+  justify-content: center;
+}
+
+.two-columns {
+  border: 1px solid red;
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin-top: 100px;
+}
+
+.two-columns__brief {
+  width: 175px;
+  line-height: 1.2;
+  font-size: 18;
+  font-weight: normal;
+}
+
+.two-columns__main-text {
+  border: 1px solid blue;
+  width: 80%;
+  min-width: 784px;
+}
+
+.two-columns__main-text__paragraph {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}
+
+.two-columns__main-text__paragraph_padding {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.two-columns__main-text__span-accent {
+  font-weight: bold;
+}
+
