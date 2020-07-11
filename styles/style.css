@@ -194,6 +194,7 @@
 .table__heading {
   line-height: 1.15;
   font-size: 24px;
+  font-weight: bold;
   margin: 0;
   padding: 0;
 }
@@ -338,6 +339,7 @@
   color: white;
   line-height: 30px;
   font-size: 18px;
+  font-weight: bold;
   margin: 0;
   padding: 0;
 }
