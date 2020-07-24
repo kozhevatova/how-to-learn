@@ -3,4 +3,5 @@
     color: #2f80ed;
     margin: 0;
     padding: 0;
+    transition: opacity .8s ease-in-out;
   }
